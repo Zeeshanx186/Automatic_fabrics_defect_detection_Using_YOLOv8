@@ -1,7 +1,6 @@
-ultralytics
-YOLO
-cv2
-streamlit
-PIL
-Image
-numpy
+ultralytics== 8.1.9
+yolov8 == 0.0.2
+opencv-python == 4.7.0.72
+streamlit == 1.31.1
+pillow == 10.2.0
+numpy == 1.26.4
