@@ -3,5 +3,4 @@ opencv-python
 streamlit
 Pillow
 numpy
-RUN apt-get update && apt-get install -y libgl1-mesa-glx
 
